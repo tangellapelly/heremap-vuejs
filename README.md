@@ -88,6 +88,6 @@ export default {
 ```
 
 
-### Sample shots
+### Live Example
 
-![captured.gif](./captured.gif)
+[HereMap-Vuejs](https://vue-here-map.now.sh/)
